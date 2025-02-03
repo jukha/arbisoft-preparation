@@ -1,0 +1,7 @@
+6
+Alice, 500
+Bob, 300
+Charlie, 700
+Alice, 500
+David, 200
+Charlie, 700
