@@ -8,5 +8,3 @@ triple seven quadruple seven quintuple seven
 zero triple three quadruple three double zero
 16666666666
 one triple six triple six quadruple six
-03461591699
-zero three four six one five nine one six double nine
